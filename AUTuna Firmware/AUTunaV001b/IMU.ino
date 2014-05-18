@@ -1,0 +1,7 @@
+void checkInclination(){
+  
+}
+
+void checkHeading(){
+  
+}
