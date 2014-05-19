@@ -5,17 +5,17 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>English</string>
     <key>CFBundleExecutable</key>
-    <string>HJFish01</string>
+    <string>SwimStyle</string>
     <key>CFBundleIconFile</key>
     <string>sketch.icns</string>
     <key>CFBundleIdentifier</key>
-    <string>HJFish01</string>
+    <string>SwimStyle</string>
     <key>CFBundleDisplayName</key>
-    <string>HJFish01</string>
+    <string>SwimStyle</string>
     <key>CFBundleInfoDictionaryVersion</key>
     <string>6.0</string>
     <key>CFBundleName</key>
-    <string>HJFish01</string>
+    <string>SwimStyle</string>
     <key>CFBundlePackageType</key>
     <string>APPL</string>
 
@@ -32,11 +32,10 @@
     <string>Created with Processing</string>
     <!-- End of the set that can be customized -->
 
-    <key>JVMRuntime</key>
-    <string>jdk1.7.0_51.jdk</string>
+    
 
     <key>JVMMainClassName</key>
-    <string>HJFish01</string>
+    <string>SwimStyle</string>
 
     <key>LSMinimumSystemVersion</key>
     <string>10.7.3</string>
@@ -67,7 +66,7 @@
       <string>-Dapple.laf.useScreenMenuBar=true</string>
       <string>-Dcom.apple.macos.use-file-dialog-packages=true</string>
       <string>-Dcom.apple.macos.useScreenMenuBar=true</string>
-      <string>-Dcom.apple.mrj.application.apple.menu.about.name=HJFish01</string>
+      <string>-Dcom.apple.mrj.application.apple.menu.about.name=SwimStyle</string>
       <string>-Dcom.apple.smallTabs=true</string>
     </array>
     <key>JVMArguments</key>
